@@ -1,0 +1,6 @@
+Hi!
+Hello world!
+total 80
+-rwxr-xr-x 1 root   root      89 Oct 11 19:22 1.sh
+-rw-rw-r-- 1 harish harish 70010 Oct 11 19:18 question.png
+-rw-rw-r-- 1 harish harish    17 Oct 11 19:22 test.txt
